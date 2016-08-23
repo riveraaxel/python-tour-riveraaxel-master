@@ -6,4 +6,4 @@ And you can tell it to say whatever you want!
 
 """
 
-print('hello River')
+print('Hi')

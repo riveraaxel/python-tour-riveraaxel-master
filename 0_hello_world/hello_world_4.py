@@ -10,3 +10,4 @@ x = 'hello'
 y = 'world'
 
 print(x + y)
+# there are no qoutations in both x and y

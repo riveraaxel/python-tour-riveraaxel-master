@@ -11,3 +11,5 @@ print(x)
 
 something = type(x)
 print(something)
+#1. x is a string
+# it explains what variable type x is

@@ -6,7 +6,8 @@ Hello World 1
 
 """
 
-print(hello world)
+print('hello world')
 
 
-
+# 1. There are no quotes
+# 2. Add quotes

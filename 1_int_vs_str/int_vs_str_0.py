@@ -9,10 +9,6 @@ This script uses 4 variables.  Your script should do the same with 2.
 
 x = 10
 y = 20
+print(x+y)
 
-s = x+y
-print(s)
-
-p = x*y
-print(p)
-
+print(x*y)

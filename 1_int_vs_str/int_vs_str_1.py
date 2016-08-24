@@ -11,9 +11,7 @@ Integers vs. Strings 1
 someText = 'Oh happy day.'
 otherText = "I'm on my way."
 
-print(type(someText))
-print(type(otherText))
-
-together = someText + otherText
-
-print(together)
+together = ('someText + otherText')
+#3 i put the two variables together to add them
+#2 python says they are both Strings
+#1 there is two variables

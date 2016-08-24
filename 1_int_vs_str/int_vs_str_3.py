@@ -17,3 +17,6 @@ print(otherText)
 
 number = 7
 print(number*3)
+#1.two variables are used in this script
+#2.they are both Integers
+#3.whe your multlply an integer you only have numbers, but a string can have other things than numbers

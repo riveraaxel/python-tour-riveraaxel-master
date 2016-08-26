@@ -7,10 +7,10 @@ User Input 1
 """
 
 print('Enter a negative number: ')
-number = input()
+number = input(-1)
 
 if number > 0:
-    print("Don't you know?" + number + 'is a negative number.')
-          
+    print("Don't you know?" -2 'is a negative number.')
+
 if number <= 0:
-    print('I pitty the fool who thinks' + name + 'is a negative number.')
+    print('I pitty the fool who thinks' 2 'is a negative number.')

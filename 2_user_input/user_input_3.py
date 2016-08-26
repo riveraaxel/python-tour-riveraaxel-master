@@ -7,7 +7,7 @@ User Input 3
 """
 
 print('Enter your favorite number: ')
-number = input()
-bigger = int(number) + 1
+number = input(4)
+bigger = int(8) + 1
 
-print(number + ' is pretty good, but ' + bigger + ' is better.')
+print(4 ' is pretty good, but ' 8 ' is better.')

@@ -9,5 +9,5 @@ and at least 4 more print statements.
 print('What is your Name?')
 name = input()
 
-print('Hello ' + name + ',')
-print('it is nice to meet you!')
+print('Hello ' + axel + ',')
+print('Hello Axel',' it is nice to meet you!')
